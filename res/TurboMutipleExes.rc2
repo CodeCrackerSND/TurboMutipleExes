@@ -1,0 +1,18 @@
+//
+// TURBOMUTIPLEEXES.RC2 - resources Microsoft Visual C++ does not edit directly
+//
+
+#ifdef APSTUDIO_INVOKED
+	#error this file is not editable by Microsoft Visual C++
+#endif //APSTUDIO_INVOKED
+
+
+/////////////////////////////////////////////////////////////////////////////
+// Add manually edited resources here...
+
+#define EP_RESOURCE 300
+#define SU_RESOURCE 301
+
+/////////////////////////////////////////////////////////////////////////////
+EP_RESOURCE RCDATA "EntryPointProject\EntryPointProject.exe"
+SU_RESOURCE RCDATA "StartupExe\StartupExe.exe"

@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<settings version="1.0">
+	<category name="main.rc">
+		<category name="Window">
+			<property name="Left" type="integer">-4</property>
+			<property name="Top" type="integer">-30</property>
+			<property name="Right" type="integer">816</property>
+			<property name="Bottom" type="integer">509</property>
+			<property name="Maximized" type="integer">1</property>
+			<property name="Active" type="integer">1</property>
+		</category>
+	</category>
+	<category name="main.c">
+		<category name="Window">
+			<property name="Left" type="integer">44</property>
+			<property name="Top" type="integer">58</property>
+			<property name="Right" type="integer">812</property>
+			<property name="Bottom" type="integer">436</property>
+			<property name="Maximized" type="integer">0</property>
+			<property name="Active" type="integer">0</property>
+		</category>
+	</category>
+</settings>
